@@ -21,7 +21,7 @@
       {
         backgroundColor: 'rgba(0, 184, 216, 0.1)',
         borderColor: 'rgb(0, 184, 216)',
-        data: [1, 2, 1, 3, 5, 4, 7],
+        data: [1, 2, 1, 3, 5, 4, 1],
       },
       {
         backgroundColor: 'rgba(23,198,113,0.1)',
